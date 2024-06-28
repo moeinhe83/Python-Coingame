@@ -1,6 +1,6 @@
 Project Name ===> Coin Collecting Game
 
-Program Description ===> Making a coin collecting Game With Python
+Program Description ===> Making a Coin Collecting Game With Python
 
 Programming Language ===> Python
 
