@@ -8,6 +8,6 @@ Description Of Files:
 
 coin.py ===> For Run => python coin.py
 
-Required packages for python ===> pygame , random
+Required Packages For Python ===> pygame , random
 
 pygame ===> To Install => pip install pygame
